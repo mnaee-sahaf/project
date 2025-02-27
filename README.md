@@ -4,4 +4,4 @@ We will focus on
 
 1. Python fundamentals
 2. ML Core concepts
-3. Improtant Research Papers in the field of ML/AI
+3. Important Research Papers in the field of ML/AI
